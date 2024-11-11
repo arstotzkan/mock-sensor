@@ -1,2 +1,2 @@
 # mock-sensor
-Mock Sensor
+A mock temperature sensor that sends data with TCP (and ideally runs on docker)
